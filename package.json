@@ -1,0 +1,37 @@
+{
+  "name": "@dimudesigns/nodejs-datastore-element-builder",
+  "version": "0.0.1",
+  "description": "Helper module to manage the creation of google cloud datastore entities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimuDesigns/nodejs-datastore-element-builder.git"
+  },
+  "keywords": [
+    "google",
+    "datastore",
+    "cloud"
+  ],
+  "engines": {
+    "node": ">=6.9.2"
+  },
+  "author": "Damion Murray <dimudesigns@gmail.com> (DimuDesigns)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DimuDesigns/nodejs-datastore-element-builder/issues"
+  },
+  "homepage": "https://github.com/DimuDesigns/nodejs-datastore-element-builder#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.2"
+  }
+}
